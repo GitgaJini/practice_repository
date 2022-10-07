@@ -5,7 +5,8 @@ int main(void)
     int num1=3;
     double num2=4.5;
 
-    printf("Hello C-programming");	
+    printf("Hello C-programming");
+    printf("AZA AZA!!!!");
     printf("%d+%f=%f\n",num1,num2,num1+num2);
 
    return 0;
